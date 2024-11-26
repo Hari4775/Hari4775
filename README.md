@@ -1,6 +1,6 @@
 ## Hello👋 I'm Harikumar V 👩🏻‍💻
 
-I am from India 🇮🇳, working as a Python Fullstack Developer at [Hireasy.ai](https://hireasy.ai)
+I am from India 🇮🇳, working as a  Fullstack Developer at [Hireasy.ai](https://hireasy.ai)
 
 ### Currently I am working with ...
 
