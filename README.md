@@ -1,6 +1,6 @@
 ## Hello👋 I'm Harikumar V 👩🏻‍💻
 
-I am from India 🇮🇳, Chairman of HEZTAVERSE PRIVATE LTD.
+I am from India, Chairman of HEZTAVERSE PRIVATE LTD.
 
 ### Currently we building...
 
