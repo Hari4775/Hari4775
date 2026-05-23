@@ -1,6 +1,6 @@
 ## Hello👋 I'm Harikumar V 👩🏻‍💻
 
-I am from India, Chairman of HEZTAVERSE PRIVATE LTD.
+I am from India, Founder & Chairman of HEZTAVERSE PRIVATE LTD.
 
 
 <!-- <a href="" target="_blank" title="Bookizap" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp; -->
