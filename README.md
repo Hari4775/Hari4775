@@ -1,8 +1,8 @@
 ## Hello👋 I'm Harikumar V 👩🏻‍💻
 
-I am from India 🇮🇳, working as a  Fullstack Developer at [Hireasy.ai](https://hireasy.ai)
+I am from India 🇮🇳, Chairman of HEZTAVERSE PRIVATE LTD.
 
-### Currently I am working with ...
+### Currently we building...
 
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Express.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
