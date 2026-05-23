@@ -26,14 +26,12 @@ I am from India, Founder & Chairman of HEZTAVERSE PRIVATE LTD.
 <a href="" title="Django" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="python" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp; -->
 
-### I post actively on ...
 
-<a href="https://www.linkedin.com/in/harikumarmv/" title="harikumar v" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/hari_mazhuvanakkunnel/" title="Hari_mazhuvanakkunnel" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>
 
-### You can also find me on ...
+### You can  find me on ...
 
 <a href="https://www.instagram.com/hari_mazhuvanakkunnel/" title="Hari_mazhuvanakkunnel" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/harikumarmv/" title="harikumar v" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 &nbsp;&nbsp;
 <a href="mailto:harikumarv9000@gmail.com" target="_blank" title="harikumarv9000@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
 
